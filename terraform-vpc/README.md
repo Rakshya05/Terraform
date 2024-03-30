@@ -32,3 +32,9 @@ Apply the terraform files for creating infrastructure
 ```bash
 terraform apply --auto-approve
 ```
+
+## Screenshot
+
+The necessary screenshot of this file is present in below docs file
+
+https://docs.google.com/document/d/141BPpZRDdmGrQ0WwY0ZvR9pZV3XYGeS-Zl6BArOBAzg/edit?usp=sharing
