@@ -18,17 +18,17 @@ aws configure
 After writing terraform code:
 Initialize the terraform files
 ```bash
-Terraform init
+terraform init
 ```
 Validate the terraform files form syntax error
 ```bash
-Terraform validate
+terraform validate
 ```
 Plan the terraform files for layout plan
 ```bash
-Terraform plan
+terraform plan
 ```
 Apply the terraform files for creating infrastructure  
 ```bash
-Terraform apply
+terraform apply --auto-approve
 ```
